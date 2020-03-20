@@ -1,13 +1,12 @@
 # heipingguo
 黑苹果
 已解决问题</br>
-1、[cpu fan error](z390主板安装卡在apfs_module_start.md)</br>
-2、z390主板安装卡在apfs_module_start
+- [cpu fan error](开机提示按F1，报错信息是cpu Fan error！.md)</br>
+- [z390主板安装卡在apfs_module_start](z390主板安装卡在apfs_module_start.md)
 
 
 
 
 
-
-
-待解决问题
+待解决问题</br>
+- 休眠、重启、关机死机
