@@ -1,8 +1,8 @@
 # heipingguo
 黑苹果
 已解决问题</br>
-1、cpu fan error
-
+1、cpu fan error</br>
+2、z390主板安装卡在apfs_module_start
 
 
 
