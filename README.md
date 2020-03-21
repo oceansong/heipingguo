@@ -12,9 +12,7 @@
 
 - [开机提示按F1，报错信息是cpu_Fan_error](cpu_Fan_error.md)
 - [z390主板安装卡在apfs_module_start](z390主板安装卡在apfs_module_start.md)
-- 安装卡最后2分钟
-
-
+- [安装卡最后2分钟](安装卡在最后2分钟的解决方法.md)
 
 
 ## 待解决问题
