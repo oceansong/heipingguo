@@ -1,0 +1,3 @@
+- 断开网络(无效）
+- 使用OsxAptioFixDrv-64.efi或者OsxAptioFixDrv3-64.efi替换AptioMemoryFix.efi，每次只可以用一个驱动（解决）
+- 抹盘直接选择APFS格式，减少HFS+转换成APFS的过程（无效）
