@@ -1,3 +1,3 @@
 - 黑果的镜像里有个Fix AsRock Z390 BIOS DSDT Device（RTC）bug的选项，以为自己用的是AUSU的主板不需要这个选项，结果取消了之后不能进系统了。
-- 核显也没驱动起来，准备下个新的镜像[【Len's DMG】macOS Catalina 10.15.2 19C57 With Clover 5100 and OC 0.5.2镜像）](http://bbs.pcbeta.com/viewthread-1836586-1-1.html)。[下载地址]（下载地址.txt）装一下试试，只不过这个镜像是clover和OpenCore（OC）双引导的，没有PE应该是比较不方便。
+- 核显也没驱动起来，准备下个新的镜像[【Len's DMG】macOS Catalina 10.15.2 19C57 With Clover 5100 and OC 0.5.2镜像）](http://bbs.pcbeta.com/viewthread-1836586-1-1.html)。[下载地址]（下载地址.md）装一下试试，只不过这个镜像是clover和OpenCore（OC）双引导的，没有PE应该是比较不方便。
 - 装新镜像之前把需要的软件备份到NAS。
