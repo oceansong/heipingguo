@@ -10,4 +10,5 @@
 - 加了xjn的qq群。都是用OC引导的。我也准备该用OC再重装一次了。
 - 加了群终于知道应该从哪个帖子开始学习了。
 > [精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html#附录1-opencore-支持的内核驱动-kext-及其用途)
+
 -新买的无线网卡装上了。京东买的[BCM94360CD](https://item.jd.com/18967921252.html)。WiFi和蓝牙倒是免驱能用了。可是随航和隔空投送还是不行。
