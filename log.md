@@ -12,3 +12,4 @@
   > [精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html#附录1-opencore-支持的内核驱动-kext-及其用途)
 
 - 新买的无线网卡装上了。京东买的[BCM94360CD](https://item.jd.com/18967921252.html)。WiFi和蓝牙倒是免驱能用了。可是随航和隔空投送还是不行。
+- 启动台的残留问题还是用[launchpad Manager](http://launchpadmanager.com/)解决吧。只是清除的话也不用花钱。
