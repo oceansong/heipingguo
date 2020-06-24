@@ -22,7 +22,7 @@
 
 - 启动台的残留问题还是用[launchpad Manager](http://launchpadmanager.com/)解决吧。只是清除的话也不用花钱。
 
-
+[这可能是对“小白”最友好的黑苹果安装教程（Catalina 10.15.5 安装记录）](https://zhuanlan.zhihu.com/p/148284358)
 
 机型的选择
 
@@ -30,3 +30,4 @@
 - iMac18,3/18,2 这个机型独显做显示输出，核显仅参与一些计算任务，这种机型的AGPM的info.plist信息中，iGPU的设置参数做了简化。
 - iMacPro1,1 MacProX,X 独显输出，默认不开启核显，而且独显有各种机型的专用显卡硬件ID匹配，没有iGPU的设置参数。
 - 其他机型类似，你需要到/System/Library/Extensions/AppleGraphicsPowerManagement.kext/Contents/info.plist里去核对
+
